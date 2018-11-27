@@ -10,6 +10,7 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             // This is my amazing codebase.
+            // How amazing can it be tho.
             double pi = 0;
             for (int i = 0; i < 1000*1000; i++)
             {
