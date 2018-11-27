@@ -9,6 +9,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            // This is my amazing codebase.
         }
     }
 }
