@@ -16,6 +16,7 @@ namespace ConsoleApp2
             {
                 pi += (i % 2 == 0 ? 4d : -4d) / (2 * i + 1);
                 Console.WriteLine("PI Approx = " + pi);
+                // I like pie...
             }
             Console.ReadKey();
         }
